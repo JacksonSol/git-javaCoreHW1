@@ -1,1 +1,1 @@
-# git-javaCoreHW1
+# javaCoreHW1
